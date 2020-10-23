@@ -1,5 +1,5 @@
 # Image-Classification
-This repository contains a colab notebook with workings of an Image classification problem
+This repository contains a colab notebook with workings of an Image classification problem using Convolution Neural Networks
 
 ## Title
 Lung Image classification using Tensorflow
